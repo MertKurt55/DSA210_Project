@@ -21,7 +21,6 @@ To analyze this topic, I have collected data from **Kaggle**, which provides pub
 - **IMDb Ratings API:** I may collect updated IMDb ratings for movies in both datasets.  
 - **Box Office Revenue Data:** If needed, I will look at sources like Box Office Mojo or The Numbers to compare box office performance with streaming performance.  
 
----
 
 #### **Analysis Plan**  
 
