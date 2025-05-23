@@ -1,0 +1,122 @@
+title,year,score_netflix,votes_netflix,runtime_netflix,genre_netflix,country_netflix,score_movies,votes_movies,runtime_movies,genre_movies,country_movies,budget,gross
+inception,2010,8.8,2268288,148,scifi,GB,8.8,2100000.0,148.0,Action,United States,160000000.0,836836967.0
+forrest gump,1994,8.8,1994599,142,drama,US,8.8,1900000.0,142.0,Drama,United States,55000000.0,678226133.0
+saving private ryan,1998,8.6,1346020,169,drama,US,8.6,1300000.0,169.0,Drama,United States,70000000.0,482349603.0
+django unchained,2012,8.4,1472668,165,western,US,8.4,1400000.0,165.0,Drama,United States,100000000.0,426074373.0
+once upon a time in america,1984,8.3,342335,229,drama,US,8.4,321000.0,229.0,Crime,Italy,30000000.0,5473212.0
+full metal jacket,1987,8.3,723306,116,drama,GB,8.3,691000.0,116.0,Drama,United Kingdom,30000000.0,46357676.0
+warrior,2011,8.2,463276,140,drama,US,8.1,445000.0,140.0,Action,United States,25000000.0,23308615.0
+drishyam,2015,8.2,79075,163,thriller,IN,8.2,75000.0,163.0,Crime,India,9400000.0,
+andhadhun,2018,8.2,88359,139,thriller,IN,8.2,79000.0,139.0,Crime,India,4500000.0,62475342.0
+how to train your dragon,2010,8.1,719717,98,fantasy,US,8.1,685000.0,98.0,Animation,United States,165000000.0,494879471.0
+rush,2013,8.1,465254,123,drama,US,8.1,446000.0,123.0,Action,United Kingdom,38000000.0,96983009.0
+into the wild,2007,8.1,611379,140,drama,US,8.1,588000.0,148.0,Adventure,United States,15000000.0,56675895.0
+stand by me,1986,8.1,392790,89,drama,US,8.1,374000.0,89.0,Adventure,United States,8000000.0,52287414.0
+blood diamond,2006,8.0,536858,143,thriller,US,8.0,511000.0,143.0,Adventure,United States,100000000.0,171720398.0
+her,2013,8.0,586679,126,drama,US,8.0,559000.0,126.0,Drama,United States,23000000.0,48517427.0
+the bourne ultimatum,2007,8.0,627009,115,thriller,DE,8.0,612000.0,115.0,Action,United States,110000000.0,444100035.0
+casino royale,2006,8.0,644336,139,thriller,GB,8.0,594000.0,144.0,Action,United Kingdom,150000000.0,616502912.0
+big fish,2003,8.0,435503,125,drama,US,8.0,422000.0,125.0,Adventure,United States,70000000.0,123218424.0
+blade runner 2049,2017,8.0,539864,164,scifi,CA,8.0,486000.0,164.0,Action,United States,150000000.0,259334548.0
+the imitation game,2014,8.0,748654,113,thriller,US,8.0,707000.0,114.0,Biography,United Kingdom,14000000.0,233555708.0
+marriage story,2019,7.9,290643,136,drama,GB,7.9,265000.0,137.0,Comedy,United Kingdom,18600000.0,333686.0
+how to train your dragon 2,2014,7.8,327565,102,fantasy,US,7.8,313000.0,102.0,Animation,United States,145000000.0,621537519.0
+the irishman,2019,7.8,371209,209,drama,US,7.8,344000.0,209.0,Biography,United States,159000000.0,968853.0
+the girl with the dragon tattoo,2011,7.8,454917,158,crime,NO,7.8,435000.0,158.0,Crime,United States,90000000.0,232617430.0
+the social network,2010,7.8,681286,121,drama,US,7.7,645000.0,120.0,Biography,United States,40000000.0,224920375.0
+dunkirk,2017,7.8,619645,107,drama,US,7.8,582000.0,106.0,Action,United Kingdom,100000000.0,527016307.0
+the hateful eight,2015,7.8,570138,188,western,US,7.8,539000.0,168.0,Crime,United States,44000000.0,156480177.0
+the last samurai,2003,7.8,429097,154,drama,NZ,7.7,409000.0,154.0,Action,United States,140000000.0,454627263.0
+gattaca,1997,7.8,298168,106,thriller,US,7.8,287000.0,106.0,Drama,United States,36000000.0,12532777.0
+nightcrawler,2014,7.8,523686,118,crime,US,7.8,486000.0,117.0,Crime,United States,8500000.0,47398992.0
+awakenings,1990,7.8,137549,120,drama,US,7.8,130000.0,121.0,Biography,United States,31000000.0,52096475.0
+beasts of no nation,2015,7.7,80129,137,war,US,7.7,76000.0,137.0,Drama,United States,6000000.0,90777.0
+wind river,2017,7.7,240408,106,thriller,FR,7.7,217000.0,107.0,Crime,United Kingdom,11000000.0,43980821.0
+silver linings playbook,2012,7.7,697481,122,drama,US,7.7,675000.0,122.0,Comedy,United States,21000000.0,236412453.0
+argo,2012,7.7,600392,120,drama,US,7.7,585000.0,120.0,Biography,United States,44500000.0,232325503.0
+road to perdition,2002,7.7,263212,117,thriller,US,7.7,253000.0,117.0,Crime,United States,80000000.0,181001478.0
+when harry met sally...,1989,7.7,212913,96,romance,US,7.6,201000.0,95.0,Comedy,United States,16000000.0,93232006.0
+midnight in paris,2011,7.7,413541,94,fantasy,US,7.7,398000.0,94.0,Comedy,Spain,17000000.0,151653750.0
+donnie brasco,1997,7.7,300073,127,thriller,US,7.7,287000.0,127.0,Biography,United States,35000000.0,124909762.0
+the blind side,2009,7.6,323939,129,drama,US,7.6,303000.0,129.0,Biography,United States,29000000.0,309208309.0
+sherlock holmes,2009,7.6,620154,129,crime,GB,7.6,596000.0,128.0,Action,United States,90000000.0,524028679.0
+stardust,2007,7.6,269043,122,fantasy,US,7.6,260000.0,127.0,Adventure,United Kingdom,70000000.0,137515140.0
+love actually,2003,7.6,474176,139,drama,GB,7.6,444000.0,135.0,Comedy,United Kingdom,40000000.0,245203167.0
+hell or high water,2016,7.6,224900,102,western,US,7.6,211000.0,102.0,Action,United States,12000000.0,37879877.0
+i am sam,2001,7.6,149082,132,drama,US,7.6,145000.0,132.0,Drama,United States,22000000.0,97818139.0
+true grit,2010,7.6,333378,110,western,US,7.6,319000.0,110.0,Drama,United States,38000000.0,252276927.0
+the conjuring,2013,7.5,491048,107,thriller,US,7.5,464000.0,112.0,Horror,United States,20000000.0,320290989.0
+les misérables,2012,7.5,325132,157,drama,GB,7.6,315000.0,158.0,Drama,United Kingdom,61000000.0,441809770.0
+nocturnal animals,2016,7.5,264884,115,drama,US,7.5,248000.0,116.0,Drama,United States,22500000.0,30311857.0
+a monster calls,2016,7.5,86614,108,fantasy,ES,7.5,83000.0,108.0,Adventure,United Kingdom,43000000.0,47309313.0
+the devil's advocate,1997,7.5,361422,144,horror,DE,7.5,342000.0,144.0,Drama,Germany,57000000.0,152944660.0
+42,2013,7.5,93314,128,drama,US,7.5,89000.0,128.0,Biography,United States,40000000.0,97470701.0
+menace ii society,1993,7.5,57399,97,drama,US,7.5,54000.0,97.0,Crime,United States,3500000.0,27912072.0
+blow,2001,7.5,255099,124,drama,US,7.6,246000.0,124.0,Biography,United States,53000000.0,83282296.0
+begin again,2013,7.4,154049,104,comedy,US,7.4,147000.0,104.0,Comedy,United States,8000000.0,65652908.0
+sherlock holmes: a game of shadows,2011,7.4,446531,129,crime,US,7.5,429000.0,129.0,Action,United States,125000000.0,543848418.0
+lady bird,2017,7.4,277165,94,drama,US,7.4,254000.0,94.0,Comedy,United States,10000000.0,78966486.0
+molly's game,2017,7.4,165817,140,drama,CA,7.4,153000.0,140.0,Biography,China,30000000.0,59284015.0
+darkest hour,2017,7.4,193208,125,drama,GB,7.4,179000.0,125.0,Biography,United Kingdom,30000000.0,150847274.0
+the bucket list,2007,7.4,242733,97,drama,US,7.4,235000.0,97.0,Adventure,United States,45000000.0,175372502.0
+a nightmare on elm street,1984,7.4,230543,91,horror,US,7.5,212000.0,91.0,Horror,United States,1800000.0,25507137.0
+"crazy, stupid, love.",2011,7.4,507878,118,romance,US,7.4,487000.0,118.0,Comedy,United States,50000000.0,145051197.0
+phantom thread,2017,7.4,128600,130,romance,US,7.5,118000.0,130.0,Drama,United States,35000000.0,47756590.0
+looper,2012,7.4,566791,119,thriller,US,7.4,545000.0,113.0,Action,United States,30000000.0,176506819.0
+felon,2008,7.4,78039,103,crime,US,7.4,76000.0,104.0,Thriller,United States,2900000.0,
+"girl, interrupted",1999,7.3,180532,127,drama,US,7.3,169000.0,127.0,Biography,Germany,40000000.0,48350205.0
+talaash,2012,7.3,41752,149,thriller,IN,7.2,40000.0,140.0,Crime,India,7395080.0,5277766.0
+starship troopers,1997,7.3,288960,129,scifi,US,7.2,276000.0,129.0,Action,United States,105000000.0,121214377.0
+the edge of seventeen,2016,7.3,120488,104,comedy,US,7.3,110000.0,104.0,Comedy,United States,9000000.0,19370020.0
+corpse bride,2005,7.3,265023,77,fantasy,US,7.3,251000.0,77.0,Animation,United States,40000000.0,118090836.0
+memoirs of a geisha,2005,7.3,146847,145,drama,FR,7.3,141000.0,145.0,Drama,France,85000000.0,162242962.0
+coach carter,2005,7.3,143670,130,drama,US,7.3,133000.0,136.0,Biography,United States,30000000.0,76669554.0
+identity,2003,7.3,240433,90,thriller,US,7.3,233000.0,90.0,Mystery,United States,28000000.0,90259536.0
+the best of enemies,2019,7.3,16441,133,drama,US,7.2,13000.0,133.0,Biography,United States,10000000.0,10209813.0
+little women,1994,7.3,57621,115,drama,US,7.3,54000.0,115.0,Drama,United States,18000000.0,50083616.0
+the conjuring 2,2016,7.3,260693,134,thriller,US,7.3,242000.0,134.0,Horror,Canada,40000000.0,321788219.0
+the disaster artist,2017,7.3,149604,104,comedy,US,7.4,143000.0,104.0,Biography,United States,10000000.0,29820616.0
+monster,2003,7.3,149218,110,crime,US,7.3,140000.0,109.0,Biography,United States,8000000.0,58469210.0
+in the line of fire,1993,7.2,101939,128,drama,US,7.2,96000.0,128.0,Action,United States,40000000.0,176997168.0
+steve jobs,2015,7.2,166288,122,drama,GB,7.2,160000.0,122.0,Biography,United Kingdom,30000000.0,34441873.0
+shooter,2007,7.2,329417,124,thriller,US,7.2,317000.0,124.0,Action,United States,61000000.0,95696996.0
+closer,2004,7.2,215678,94,drama,GB,7.2,207000.0,104.0,Drama,United States,27000000.0,115505027.0
+st. vincent,2014,7.2,102103,102,comedy,US,7.2,98000.0,102.0,Comedy,United States,13000000.0,54837234.0
+a river runs through it,1992,7.2,59086,123,drama,US,7.2,55000.0,123.0,Drama,United States,12000000.0,43440294.0
+the patriot,2000,7.2,270231,165,drama,DE,7.2,260000.0,165.0,Action,United States,110000000.0,215294342.0
+five feet apart,2019,7.2,61878,116,romance,US,7.2,51000.0,116.0,Drama,United States,7000000.0,91527795.0
+michael clayton,2007,7.2,163878,120,thriller,US,7.2,159000.0,119.0,Crime,United States,25000000.0,92991835.0
+paddington,2014,7.2,111092,96,comedy,FR,7.2,103000.0,95.0,Animation,United Kingdom,55000000.0,282377683.0
+let me in,2010,7.1,120208,116,horror,GB,7.1,115000.0,116.0,Drama,United Kingdom,20000000.0,27093592.0
+body of lies,2008,7.1,224896,128,drama,GB,7.1,218000.0,128.0,Action,United States,70000000.0,115900897.0
+forgetting sarah marshall,2008,7.1,280121,111,comedy,US,7.1,271000.0,111.0,Comedy,United States,30000000.0,105833257.0
+desperado,1995,7.1,183638,104,thriller,US,7.2,175000.0,104.0,Action,United States,7000000.0,25405445.0
+the ring,2002,7.1,341888,111,horror,JP,7.1,328000.0,115.0,Horror,United States,48000000.0,249348933.0
+margin call,2011,7.1,125883,107,thriller,US,7.1,121000.0,107.0,Drama,United States,3500000.0,19504039.0
+seven years in tibet,1997,7.1,141308,136,drama,US,7.1,134000.0,136.0,Adventure,United States,70000000.0,131457682.0
+kung fu panda 3,2016,7.1,152791,95,comedy,US,7.1,141000.0,95.0,Animation,United States,145000000.0,521170825.0
+tangerine,2015,7.1,31385,87,comedy,US,7.1,28000.0,88.0,Comedy,United States,100000.0,828874.0
+the danish girl,2015,7.1,180805,119,drama,DE,7.1,170000.0,119.0,Biography,United Kingdom,15000000.0,64191523.0
+war dogs,2016,7.1,208185,114,crime,US,7.1,188000.0,114.0,Biography,United States,40000000.0,86234523.0
+blade,1998,7.1,267181,120,action,US,7.1,252000.0,120.0,Action,United States,45000000.0,131183530.0
+loving,2016,7.0,34139,123,drama,GB,7.0,33000.0,123.0,Biography,United Kingdom,9000000.0,12957265.0
+harold & kumar go to white castle,2004,7.0,193053,88,comedy,US,7.0,185000.0,88.0,Adventure,United States,9000000.0,23936908.0
+ip man 3,2015,7.0,54128,105,drama,HK,7.1,51000.0,105.0,Action,China,36000000.0,157029618.0
+the foreigner,2017,7.0,112487,113,thriller,IN,7.0,106000.0,113.0,Action,United Kingdom,35000000.0,145418070.0
+rambo,2008,7.0,228799,92,thriller,US,7.0,222000.0,92.0,Action,Germany,50000000.0,113244290.0
+soul surfer,2011,7.0,49101,112,drama,US,7.0,47000.0,112.0,Biography,United States,18000000.0,47120948.0
+happy gilmore,1996,7.0,217534,92,comedy,US,7.0,205000.0,92.0,Comedy,United States,12000000.0,41205099.0
+den of thieves,2018,7.0,107701,140,thriller,US,7.0,99000.0,140.0,Action,United States,30000000.0,80509622.0
+the zookeeper's wife,2017,7.0,42808,122,drama,GB,7.0,41000.0,127.0,Biography,Czech Republic,20000000.0,26152835.0
+public enemies,2009,7.0,297525,143,crime,US,7.0,287000.0,140.0,Biography,United States,100000000.0,214104620.0
+ip man 4: the finale,2019,7.0,30694,107,drama,CN,7.0,27000.0,107.0,Action,Hong Kong,52000000.0,176345966.0
+john q,2002,7.0,131999,116,drama,US,7.1,127000.0,116.0,Crime,United States,36000000.0,102244770.0
+any given sunday,1999,6.9,118479,162,drama,US,6.9,114000.0,162.0,Drama,United States,55000000.0,100230832.0
+the long riders,1980,6.9,11329,99,western,US,7.0,10000.0,100.0,Biography,United States,10000000.0,15795189.0
+get on up,2014,6.9,24456,139,drama,US,6.9,23000.0,139.0,Biography,United Kingdom,30000000.0,33448971.0
+cloudy with a chance of meatballs,2009,6.9,226225,90,animation,US,6.9,212000.0,90.0,Animation,United States,100000000.0,243006126.0
+legend,2015,6.9,175273,132,thriller,US,6.9,164000.0,132.0,Biography,United Kingdom,30000000.0,42972994.0
+my girl,1991,6.9,79800,103,comedy,US,6.9,75000.0,102.0,Comedy,United States,17000000.0,59489799.0
+legend of the guardians: the owls of ga'hoole,2010,6.9,82623,100,fantasy,US,6.9,80000.0,97.0,Animation,United States,80000000.0,140073390.0
+top gun,1986,6.9,329656,110,drama,US,6.9,306000.0,110.0,Action,United States,15000000.0,357288178.0
+sorry to bother you,2018,6.9,75653,111,fantasy,US,6.9,69000.0,112.0,Comedy,United States,3200000.0,18170707.0
